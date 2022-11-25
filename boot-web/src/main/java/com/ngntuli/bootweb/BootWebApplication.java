@@ -1,7 +1,7 @@
 package com.ngntuli.bootweb;
 
+import com.ngntuli.bootweb.ch04.models.RequestDataDefault;
 import com.ngntuli.bootweb.ch04.models.RequestDataScope;
-import com.ngntuli.bootweb.web.data.ch05.enhanced.RequestDataDefault;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
